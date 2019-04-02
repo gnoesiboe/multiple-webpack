@@ -1,0 +1,7 @@
+{
+    "name": "admin",
+    "private": true,
+    "dependencies": {
+        "rebuild-node-sass": "^1.1.0"
+    }
+}

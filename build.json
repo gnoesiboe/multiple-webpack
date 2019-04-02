@@ -1,0 +1,14 @@
+{
+    "roots": [
+        {
+            "name": "Admin",
+            "package_json": "./../web/assets/admin",
+            "webpack_config": "./../web/assets/admin/webpack.config.js"
+        },
+        {
+            "name": "Frontend",
+            "package_json": "./../web/assets/frontend",
+            "webpack_config": "./../web/assets/frontend/webpack.config.js"
+        }
+    ]
+}
